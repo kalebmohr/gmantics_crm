@@ -1,0 +1,9 @@
+{
+  "id": 1,
+  "name": "Jane Doe",
+  "email": "jane.doe@example.com",
+  "active": true,
+  "roles": ["user", "editor"],
+  "last_login": "2025-10-01T12:30:00Z"
+}
+
